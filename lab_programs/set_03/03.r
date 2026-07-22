@@ -10,7 +10,3 @@ ggplot(df3_perf, aes(x = YearsOfService, y = PerformanceScore)) +
   geom_smooth(method = "lm", se = FALSE, color = "black") +
   labs(title = "Years of Service vs Performance Score", x = "Years of Service", y = "Performance Score") +
   theme_minimal()
-
-# Insights:
-# There does not appear to be a strict linear relationship between years of service and performance score; 
-# newer employees can score highly compared to more senior employees.

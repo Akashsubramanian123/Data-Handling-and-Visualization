@@ -9,6 +9,3 @@ ggplot(df4_price, aes(x = Price, y = Quantity)) +
   geom_point(color = "darkorange", size = 3) +
   labs(title = "Product Price vs Quantity Available", x = "Price ($)", y = "Quantity Available") +
   theme_minimal()
-
-# Insights:
-# Analyzes if higher priced items tend to have lower available stock in inventory.
