@@ -1,0 +1,16 @@
+from,to,weight
+Ava,Ben,3
+Ava,Cleo,1
+Ben,Dax,5
+Cleo,Dax,2
+Dax,Elin,4
+Elin,Fenn,1
+Fenn,Grey,2
+Grey,Hana,3
+Hana,Ava,4
+Ben,Elin,1
+Cleo,Fenn,2
+Dax,Grey,1
+Elin,Hana,2
+Ava,Dax,3
+Cleo,Grey,1
